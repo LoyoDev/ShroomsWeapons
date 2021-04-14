@@ -1,0 +1,3 @@
+displayName = Shroom's Weapons
+author = IcyShrooms
+version = 0.22

@@ -1,0 +1,6 @@
+32
+				int heldItemLayer = layers.FindIndex(l => l == PlayerLayer.HeldItem);
+38
+					layers.Insert(heldItemLayer + 1, layer);
+34
+				if (heldItemLayer > -1)
